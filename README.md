@@ -3,17 +3,17 @@
 <h3 align="center">Desarollo de Aplicaciones Web</h3>
 
 <!-- Descripción breve -->
-🎯 Apasionado por [tema principal de interés] y siempre aprendiendo sobre [tecnologías, metodologías, etc.].  
+🎯 Apasionado por la creatividad en la web, y la informatica y siempre aprendiendo sobre cualquier cosa relacionada sobre la informatica.  
 💡 Me encanta compartir conocimiento y contribuir a la comunidad de código abierto.  
 
 ---
 
 ### 🚀 Sobre mí
-- 🔭 Actualmente estoy trabajando en **[Proyecto Actual]**  
-- 🌱 Aprendiendo **[Tecnología/Concepto]**  
-- 👯 Busco colaborar en **[Tipo de proyectos que te interesan]**  
-- 💬 Pregúntame sobre **[Tecnologías en las que eres experto]**  
-- 📫 Contáctame: [Tu Email / LinkedIn / Twitter]  
+- 🔭 Actualmente estoy trabajando en proyectos diferentes desde un Podcast personal, hasta colaborando estrechamente con Guttman en juegos neuropsicologiocos.  
+- 🌱 Aprendiendo todo lo que pueda aprender mejor, mas conocimiento = mas creatividad.
+- 👯 Busco colaborar en proyectos ya sean pequeñas o grandes.
+- 💬 Pregúntame sobre HTML | CSS | JavaScript | React | Angular | Laravel | PHP
+- 📫 Contáctame: [victorhidalgosanjurjo.1@gmail.com / [LinkedIn](https://www.linkedin.com/in/vichidsan/)]  
 
 ---
 
