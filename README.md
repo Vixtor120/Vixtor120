@@ -11,9 +11,9 @@
 ### 🚀 Sobre mí
 - 🔭 Actualmente estoy trabajando en proyectos diversos, desde un **Podcast personal** hasta colaborando estrechamente con **Guttman** en juegos neuropsicológicos.  
 - 🌱 Siempre aprendiendo, porque **más conocimiento = más creatividad**.  
-- 👯 Busco colaborar en **proyectos pequeños o grandes**.  
-- 💬 Pregúntame sobre **HTML | CSS | JavaScript | React | Angular | Laravel | PHP**  
-- 📫 Contáctame: **[victorhidalgosanjurjo.1@gmail.com](mailto:victorhidalgosanjurjo.1@gmail.com)** | **[LinkedIn](https://www.linkedin.com/in/vichidsan/)**  
+- 👯️ Busco colaborar en **proyectos pequeños o grandes**.  
+- 💬 Pregúntame sobre **HTML | CSS | JavaScript | React | Angular | Laravel | PHP | Tailwind CSS | C++ | Java**  
+- 👯 Contáctame: **[victorhidalgosanjurjo.1@gmail.com](mailto:victorhidalgosanjurjo.1@gmail.com)** | **[LinkedIn](https://www.linkedin.com/in/vichidsan/)**  
 
 ---
 
@@ -26,7 +26,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/laravel/FF2D20" alt="Laravel" width="40" height="40"/>
-<p align="left">
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+</p>
+
 ### 📈 Estadísticas de GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vixtor120&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
@@ -40,4 +44,3 @@
 ---
 
 ¡Gracias por visitar mi perfil! 😊🚀
-
