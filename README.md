@@ -1,19 +1,20 @@
 <!-- Encabezado principal con nombre y breve presentación -->
-<h1 align="center">Hola, soy Victor Hidalgo Sanjurjo 👋</h1>
-<h3 align="center">Desarrollo de Aplicaciones Web</h3>
+<h1 align="center">Hola, soy Víctor Hidalgo Sanjurjo 👋</h1>
+<h3 align="center">Desarrollador de Aplicaciones Web</h3>
 
 <!-- Descripción breve -->
-🎯 Apasionado por la creatividad en la web y la informática, siempre aprendiendo sobre cualquier cosa relacionada con la tecnología.  
-💡 Me encanta compartir conocimiento y contribuir a la comunidad de código abierto.  
+🎯 Apasionado por la creatividad en la web y la informática, siempre aprendiendo sobre todo lo relacionado con la tecnología.  
+💡 Me encanta compartir conocimientos y contribuir a la comunidad de código abierto.
 
 ---
 
 ### 🚀 Sobre mí
-- 🔭 Actualmente estoy trabajando en proyectos diversos, desde un **Podcast personal** hasta colaborando estrechamente con **Guttman** en juegos neuropsicológicos.  
+- 🔭 Actualmente trabajando en proyectos personales como un **podcast creativo**.  
+- 🧠 Recientemente colaboré con **Institut Guttmann** en el desarrollo de juegos neuropsicológicos.  
 - 🌱 Siempre aprendiendo, porque **más conocimiento = más creatividad**.  
-- 👯️ Busco colaborar en **proyectos pequeños o grandes**.  
-- 💬 Pregúntame sobre **HTML | CSS | JavaScript | React | Angular | Laravel | PHP | Tailwind CSS | C++ | Java**  
-- 👯 Contáctame: **[victorhidalgosanjurjo.1@gmail.com](mailto:victorhidalgosanjurjo.1@gmail.com)** | **[LinkedIn](https://www.linkedin.com/in/vichidsan/)**  
+- 👯 Busco colaborar en **proyectos interesantes**, sin importar el tamaño.  
+- 💬 Pregúntame sobre: **HTML | CSS | JavaScript | React | Angular | Laravel | PHP | Tailwind CSS | C++ | Java**  
+- 📫 Contáctame: [victorhidalgosanjurjo.1@gmail.com](mailto:victorhidalgosanjurjo.1@gmail.com) | [LinkedIn](https://www.linkedin.com/in/vichidsan/)
 
 ---
 
@@ -31,6 +32,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
 </p>
 
+---
+
 ### 📈 Estadísticas de GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vixtor120&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
@@ -43,4 +46,5 @@
 
 ---
 
-¡Gracias por visitar mi perfil! 😊🚀
+¡Gracias por visitar mi perfil! 😊🚀  
+*El podcast sigue en desarrollo, ¡pronto habrá novedades!*
